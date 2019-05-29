@@ -1,0 +1,4 @@
+cn\wolfcode\rbac\service\impl\PermissionServiceImpl.class
+cn\wolfcode\rbac\service\impl\RoleServiceImpl.class
+cn\wolfcode\rbac\service\IRoleService.class
+cn\wolfcode\rbac\service\IPermissionService.class
